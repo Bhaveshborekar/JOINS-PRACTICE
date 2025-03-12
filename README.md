@@ -31,5 +31,18 @@ Summary of JOIN Types:
 This script helps demonstrate the different types of joins and how they affect the output when combining data from two related tables.
 
 OUTPUT:
+![1ST](https://github.com/user-attachments/assets/beebf63e-e5fc-42a1-b959-cbd337183a69)
+
+![2ND](https://github.com/user-attachments/assets/c080c507-f196-473d-91c0-9f2ce0d5d8df)
+
+![3RD](https://github.com/user-attachments/assets/b83e2bb6-ed9d-488d-a02c-07f003536f79)
+
+![4RH](https://github.com/user-attachments/assets/7e68423b-61da-44fc-bfff-6ef80c313615)
+
+
+![5TH](https://github.com/user-attachments/assets/e3bef85b-4639-42dc-aa5e-ad516d7253ed)
+
+
+![6TH](https://github.com/user-attachments/assets/d29cab14-d75f-4198-95e5-d24aa9cb3789)
 
 

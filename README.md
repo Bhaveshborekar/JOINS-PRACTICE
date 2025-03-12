@@ -9,7 +9,7 @@ DOMAIN: SQL
 
 DURATION: 4 WEEKS
 
-MENTOR: MEELA SANTOSH
+MENTOR: NEELA SANTOSH
 
 This SQL script demonstrates various types of JOIN operations between two tables: EMPLOYEE and DEPARTMENT.
 1. Creating Tables and Inserting Data:
